@@ -1,2 +1,3 @@
 # autoSleep
-Visualization of sleep data from autoSleep app on iPhone
+
+Visualization of sleeping data from AutoSleep app on iOS.
